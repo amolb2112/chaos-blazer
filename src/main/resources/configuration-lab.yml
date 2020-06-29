@@ -1,0 +1,4 @@
+securedSSL: yes
+marathonHost: https://marathon.ch.lab.stockyard.io
+marathonUser: ''
+marathonPassword: ''
