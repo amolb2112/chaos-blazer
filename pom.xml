@@ -27,7 +27,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java-version>1.8</java-version>
 
-        <com.fasterxml.jackson.version>2.8.7</com.fasterxml.jackson.version>
+        <com.fasterxml.jackson.version>2.9.10.4</com.fasterxml.jackson.version>
         <rabbitmq.client.version>4.0.1</rabbitmq.client.version>
         <jsonpath.version>2.2.0</jsonpath.version>
         <jackson.dataformat.version>2.8.0</jackson.dataformat.version>
